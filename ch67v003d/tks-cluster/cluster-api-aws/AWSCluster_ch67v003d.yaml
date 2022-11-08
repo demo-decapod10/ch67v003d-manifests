@@ -6,7 +6,7 @@ metadata:
   namespace: ch67v003d
 spec:
   region: ap-northeast-2
-  sshKeyName: tks-seoul
+  sshKeyName: tks-seoul-ft
   bastion:
     enabled: true
     instanceType: t3.micro
